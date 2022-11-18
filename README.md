@@ -23,9 +23,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
+## Website
 
-N/A
+https://azurelo.github.io/prework-study-guide/ 
 
 ## Usage
 
